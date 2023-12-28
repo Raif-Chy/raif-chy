@@ -1,0 +1,33 @@
+.title-name{
+  color: #507dbc;
+}
+
+.img{
+  max-height: 350px;
+  max-width: 100%;
+}
+
+.icon{
+  font-weight: bold;
+  padding: .8em .7em;
+  margin: 0px .3em;
+  border-radius: .3em;
+}
+
+.btn-p{
+  color: #4AA1D3;
+  background-color: #09233D;
+}
+.btn-i{
+  color: #F79A30;
+  background-color: #270B0D;
+}
+.btn-f{
+  color: #F25425;
+  background-color: #080808;
+}
+.btn-b{
+  color: #E98115;
+  background-color: #2D5C8B;
+}
+
